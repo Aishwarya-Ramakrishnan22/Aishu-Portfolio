@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Aishwarya-Ramakrishnan22/Aishu-Portfolio/blob/master/Portfolio/astro.png" width="100" />
+  <img alt="Logo" src="https://github.com/Aishwarya-Ramakrishnan22/Aishu-Portfolio/blob/master/Portfolio/astro-removebg-preview.png" width="200" />
 </div>
 <h1 align="center">
   Aishu-Portfolio
