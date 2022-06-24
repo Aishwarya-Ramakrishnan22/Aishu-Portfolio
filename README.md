@@ -20,7 +20,7 @@
 
 ## 🛠 Installation & Set Up
 
-1. Install the PHP
+1. Install the PHP.
 
    ```sh
    sudo apt-get install php
