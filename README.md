@@ -5,16 +5,16 @@
   Aishu-Portfolio
 </h1>
 <p align="center">
-  The first iteration of <a href="https://brittanychiang.com" target="_blank">https://aishu--portfolio.herokuapp.com/</a> i've coded in Html5 with javaScript and Framework with Boostrap.  and hosted with <a href="https://www.heroko.com/" target="_blank">Heroko</a>
+  The first iteration of <a href="https://aishu--portfolio.herokuapp.com/" target="_blank">https://aishu--portfolio.herokuapp.com/</a> i've coded in Html5, javaScript and Bootstrap as a framework.  and hosted with <a href="https://www.heroko.com/" target="_blank">Heroko</a>
 </p>
 
 <p align="center">
   <a href="#" target="_blank">
-    <img src="" />
+    <img src="https://github.com/Aishwarya-Ramakrishnan22/Aishu-Portfolio/blob/master/succeeded.svg" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://github.com/Aishwarya-Ramakrishnan22/Aishu-Portfolio/blob/master/aishu.png)
 
 
 
